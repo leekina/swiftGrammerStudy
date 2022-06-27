@@ -1,7 +1,4 @@
 
-// 자기꺼 하세요 제발ㄹ요
-
-
 import Foundation
 
 for i in 1...10{

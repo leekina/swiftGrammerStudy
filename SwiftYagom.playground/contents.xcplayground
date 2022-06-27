@@ -13,5 +13,6 @@
         <page name='if_switch_2'/>
         <page name='for_in_1'/>
         <page name='func_1'/>
+        <page name='func_2'/>
     </pages>
 </playground>
