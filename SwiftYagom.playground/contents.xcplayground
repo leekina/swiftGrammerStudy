@@ -14,5 +14,8 @@
         <page name='for_in_1'/>
         <page name='func_1'/>
         <page name='func_2'/>
+        <page name='func_3'/>
+        <page name='func_4'/>
+        <page name='optional'/>
     </pages>
 </playground>
