@@ -17,5 +17,11 @@
         <page name='func_3'/>
         <page name='func_4'/>
         <page name='optional'/>
+        <page name='optional_2'/>
+        <page name='forcedUnwrapping'/>
+        <page name='optionalBinding'/>
+        <page name='struct_1'/>
+        <page name='class_1'/>
+        <page name='class_and_struct'/>
     </pages>
 </playground>

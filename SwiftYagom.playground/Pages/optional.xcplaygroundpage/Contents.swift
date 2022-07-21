@@ -18,7 +18,4 @@ check(value: myName)
 myName = nil
 print(myName)
 check(value: myName)
-
-
-
 //: [Next](@next)
